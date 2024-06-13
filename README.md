@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @idheerajdaksh
 - 👀 I’m interested in cool stuff
 - 🌱 I’m currently learning Cyber Security and Development
-- 💞️ I’m looking to collaborate on any who love do anything
+- 💞️ I’m looking to collaborate on any who love make product
 - 📫 How to reach me click on it --> @idheerajdaksh
 
 <!---
